@@ -1,0 +1,178 @@
+{"module":"marketplace","message":"Marketplace service started","level":"debug","timestamp":"2022-02-13T05:37:32.777Z"}
+{"module":"player","message":"Player Service started","level":"debug","timestamp":"2022-02-13T05:37:32.780Z"}
+{"module":"calls","message":"Call service started","level":"debug","timestamp":"2022-02-13T05:37:32.781Z"}
+{"module":"notes","message":"Notes service started","level":"debug","timestamp":"2022-02-13T05:37:32.782Z"}
+{"module":"contact","message":"Contacts service started","level":"debug","timestamp":"2022-02-13T05:37:32.783Z"}
+{"module":"photo","message":"Photo service started","level":"debug","timestamp":"2022-02-13T05:37:32.784Z"}
+{"module":"messages","message":"Messages service started","level":"debug","timestamp":"2022-02-13T05:37:32.786Z"}
+{"module":"twitter","message":"Twitter service started","level":"debug","timestamp":"2022-02-13T05:37:32.787Z"}
+{"module":"match","message":"Match service started","level":"debug","timestamp":"2022-02-13T05:37:32.788Z"}
+{"message":"Sucessfully started","level":"info","timestamp":"2022-02-13T05:37:36.631Z"}
+{"module":"marketplace","message":"Marketplace service started","level":"debug","timestamp":"2022-02-13T05:38:35.713Z"}
+{"module":"player","message":"Player Service started","level":"debug","timestamp":"2022-02-13T05:38:35.715Z"}
+{"module":"calls","message":"Call service started","level":"debug","timestamp":"2022-02-13T05:38:35.717Z"}
+{"module":"notes","message":"Notes service started","level":"debug","timestamp":"2022-02-13T05:38:35.718Z"}
+{"module":"contact","message":"Contacts service started","level":"debug","timestamp":"2022-02-13T05:38:35.720Z"}
+{"module":"photo","message":"Photo service started","level":"debug","timestamp":"2022-02-13T05:38:35.721Z"}
+{"module":"messages","message":"Messages service started","level":"debug","timestamp":"2022-02-13T05:38:35.722Z"}
+{"module":"twitter","message":"Twitter service started","level":"debug","timestamp":"2022-02-13T05:38:35.723Z"}
+{"module":"match","message":"Match service started","level":"debug","timestamp":"2022-02-13T05:38:35.725Z"}
+{"message":"Sucessfully started","level":"info","timestamp":"2022-02-13T05:38:36.476Z"}
+{"module":"bridge","message":"[generatePhoneNumber] 306-760-9920","level":"debug","timestamp":"2022-02-13T05:40:11.970Z"}
+{"module":"player","message":"New NPWD Player added through event (1) (char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4)","level":"info","timestamp":"2022-02-13T05:40:11.989Z"}
+{"module":"player","message":{"source":1,"_identifier":"char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","_phoneNumber":"306-760-9920","username":"fleev","_firstname":"Fleevo","_lastname":"Test"},"level":"debug","timestamp":"2022-02-13T05:40:11.990Z"}
+{"module":"events","message":"netPromise > npwd:getOrCreateTwitterProfile > RequestObj","level":"silly","timestamp":"2022-02-13T05:40:12.141Z"}
+{"module":"events","message":{"source":1,"data":null},"level":"silly","timestamp":"2022-02-13T05:40:12.142Z"}
+{"module":"events","message":"netPromise > npwd:fetchMessageGroups > RequestObj","level":"silly","timestamp":"2022-02-13T05:40:12.144Z"}
+{"module":"events","message":{"source":1,"data":null},"level":"silly","timestamp":"2022-02-13T05:40:12.144Z"}
+{"module":"twitter","message":"Creating default Twitter profile Fleevo_Test for char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","level":"info","timestamp":"2022-02-13T05:40:12.151Z"}
+{"module":"events","message":"Response Promise Event npwd:fetchMessageGroups:3f68a6d9-5901-40f1-b77d-891af72d479f (9.253ms), Data >>","level":"silly","timestamp":"2022-02-13T05:40:12.153Z"}
+{"module":"events","message":{"status":"ok","data":[]},"level":"silly","timestamp":"2022-02-13T05:40:12.154Z"}
+{"module":"events","message":"Response Promise Event npwd:getOrCreateTwitterProfile:91a1c043-fe1a-474c-87ea-ced45e4ceb81 (20.0086ms), Data >>","level":"silly","timestamp":"2022-02-13T05:40:12.161Z"}
+{"module":"events","message":{"status":"ok","data":{"id":14,"profile_name":"Fleevo_Test","identifier":"char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","avatar_url":"https://i.file.glass/QrEvq.png","bio":null,"location":null,"job":null,"createdAt":"2022-02-13T05:40:12.000Z","updatedAt":"2022-02-13T05:40:12.000Z"}},"level":"silly","timestamp":"2022-02-13T05:40:12.162Z"}
+{"module":"player","message":"Unloaded NPWD Player, source: (1)","level":"info","timestamp":"2022-02-13T05:40:37.122Z"}
+{"module":"marketplace","message":"Marketplace service started","level":"debug","timestamp":"2022-02-13T05:42:39.810Z"}
+{"module":"player","message":"Player Service started","level":"debug","timestamp":"2022-02-13T05:42:39.812Z"}
+{"module":"calls","message":"Call service started","level":"debug","timestamp":"2022-02-13T05:42:39.814Z"}
+{"module":"notes","message":"Notes service started","level":"debug","timestamp":"2022-02-13T05:42:39.815Z"}
+{"module":"contact","message":"Contacts service started","level":"debug","timestamp":"2022-02-13T05:42:39.816Z"}
+{"module":"photo","message":"Photo service started","level":"debug","timestamp":"2022-02-13T05:42:39.816Z"}
+{"module":"messages","message":"Messages service started","level":"debug","timestamp":"2022-02-13T05:42:39.817Z"}
+{"module":"twitter","message":"Twitter service started","level":"debug","timestamp":"2022-02-13T05:42:39.818Z"}
+{"module":"match","message":"Match service started","level":"debug","timestamp":"2022-02-13T05:42:39.820Z"}
+{"message":"Sucessfully started","level":"info","timestamp":"2022-02-13T05:42:40.554Z"}
+{"module":"player","message":"New NPWD Player added through event (1) (char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4)","level":"info","timestamp":"2022-02-13T05:44:06.860Z"}
+{"module":"player","message":{"source":1,"_identifier":"char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","_phoneNumber":"306-760-9920","username":"fleev","_firstname":"Fleevo","_lastname":"Test"},"level":"debug","timestamp":"2022-02-13T05:44:06.861Z"}
+{"module":"events","message":"netPromise > npwd:getOrCreateTwitterProfile > RequestObj","level":"silly","timestamp":"2022-02-13T05:44:07.012Z"}
+{"module":"events","message":{"source":1,"data":null},"level":"silly","timestamp":"2022-02-13T05:44:07.013Z"}
+{"module":"events","message":"netPromise > npwd:fetchMessageGroups > RequestObj","level":"silly","timestamp":"2022-02-13T05:44:07.026Z"}
+{"module":"events","message":{"source":1,"data":null},"level":"silly","timestamp":"2022-02-13T05:44:07.027Z"}
+{"module":"events","message":"Response Promise Event npwd:getOrCreateTwitterProfile:4ae67ea4-a15a-4c97-8930-a6b2070f1d8b (34.9436ms), Data >>","level":"silly","timestamp":"2022-02-13T05:44:07.047Z"}
+{"module":"events","message":{"status":"ok","data":{"id":14,"profile_name":"Fleevo_Test","identifier":"char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","avatar_url":"https://i.file.glass/QrEvq.png","bio":null,"location":null,"job":null,"createdAt":"2022-02-13T05:40:12.000Z","updatedAt":"2022-02-13T05:40:12.000Z"}},"level":"silly","timestamp":"2022-02-13T05:44:07.048Z"}
+{"module":"events","message":"Response Promise Event npwd:fetchMessageGroups:5e19a993-5802-425f-90e8-2d900faf40b4 (23.104ms), Data >>","level":"silly","timestamp":"2022-02-13T05:44:07.049Z"}
+{"module":"events","message":{"status":"ok","data":[]},"level":"silly","timestamp":"2022-02-13T05:44:07.050Z"}
+{"module":"player","message":"Unloaded NPWD Player, source: (1)","level":"info","timestamp":"2022-02-13T05:44:49.043Z"}
+{"module":"marketplace","message":"Marketplace service started","level":"debug","timestamp":"2022-02-13T05:46:03.488Z"}
+{"module":"player","message":"Player Service started","level":"debug","timestamp":"2022-02-13T05:46:03.491Z"}
+{"module":"calls","message":"Call service started","level":"debug","timestamp":"2022-02-13T05:46:03.492Z"}
+{"module":"notes","message":"Notes service started","level":"debug","timestamp":"2022-02-13T05:46:03.493Z"}
+{"module":"contact","message":"Contacts service started","level":"debug","timestamp":"2022-02-13T05:46:03.494Z"}
+{"module":"photo","message":"Photo service started","level":"debug","timestamp":"2022-02-13T05:46:03.495Z"}
+{"module":"messages","message":"Messages service started","level":"debug","timestamp":"2022-02-13T05:46:03.496Z"}
+{"module":"twitter","message":"Twitter service started","level":"debug","timestamp":"2022-02-13T05:46:03.498Z"}
+{"module":"match","message":"Match service started","level":"debug","timestamp":"2022-02-13T05:46:03.500Z"}
+{"message":"Sucessfully started","level":"info","timestamp":"2022-02-13T05:46:04.786Z"}
+{"module":"player","message":"New NPWD Player added through event (1) (char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4)","level":"info","timestamp":"2022-02-13T05:47:08.214Z"}
+{"module":"player","message":{"source":1,"_identifier":"char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","_phoneNumber":"306-760-9920","username":"fleev","_firstname":"Fleevo","_lastname":"Test"},"level":"debug","timestamp":"2022-02-13T05:47:08.215Z"}
+{"module":"events","message":"netPromise > npwd:getOrCreateTwitterProfile > RequestObj","level":"silly","timestamp":"2022-02-13T05:47:08.314Z"}
+{"module":"events","message":{"source":1,"data":null},"level":"silly","timestamp":"2022-02-13T05:47:08.315Z"}
+{"module":"events","message":"netPromise > npwd:fetchMessageGroups > RequestObj","level":"silly","timestamp":"2022-02-13T05:47:08.324Z"}
+{"module":"events","message":{"source":1,"data":null},"level":"silly","timestamp":"2022-02-13T05:47:08.325Z"}
+{"module":"events","message":"Response Promise Event npwd:getOrCreateTwitterProfile:1b9f0903-7263-4d0e-8fec-309e5914d1ea (29.4323ms), Data >>","level":"silly","timestamp":"2022-02-13T05:47:08.344Z"}
+{"module":"events","message":{"status":"ok","data":{"id":14,"profile_name":"Fleevo_Test","identifier":"char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","avatar_url":"https://i.file.glass/QrEvq.png","bio":null,"location":null,"job":null,"createdAt":"2022-02-13T05:40:12.000Z","updatedAt":"2022-02-13T05:40:12.000Z"}},"level":"silly","timestamp":"2022-02-13T05:47:08.344Z"}
+{"module":"events","message":"Response Promise Event npwd:fetchMessageGroups:4c17eb76-ad0e-45dc-980b-f8b09f8f5ab0 (22.9524ms), Data >>","level":"silly","timestamp":"2022-02-13T05:47:08.348Z"}
+{"module":"events","message":{"status":"ok","data":[]},"level":"silly","timestamp":"2022-02-13T05:47:08.349Z"}
+{"module":"player","message":"Unloaded NPWD Player, source: (1)","level":"info","timestamp":"2022-02-13T05:47:43.005Z"}
+{"module":"marketplace","message":"Marketplace service started","level":"debug","timestamp":"2022-02-13T05:54:29.360Z"}
+{"module":"player","message":"Player Service started","level":"debug","timestamp":"2022-02-13T05:54:29.362Z"}
+{"module":"calls","message":"Call service started","level":"debug","timestamp":"2022-02-13T05:54:29.363Z"}
+{"module":"notes","message":"Notes service started","level":"debug","timestamp":"2022-02-13T05:54:29.364Z"}
+{"module":"contact","message":"Contacts service started","level":"debug","timestamp":"2022-02-13T05:54:29.365Z"}
+{"module":"photo","message":"Photo service started","level":"debug","timestamp":"2022-02-13T05:54:29.366Z"}
+{"module":"messages","message":"Messages service started","level":"debug","timestamp":"2022-02-13T05:54:29.367Z"}
+{"module":"twitter","message":"Twitter service started","level":"debug","timestamp":"2022-02-13T05:54:29.368Z"}
+{"module":"match","message":"Match service started","level":"debug","timestamp":"2022-02-13T05:54:29.370Z"}
+{"message":"Sucessfully started","level":"info","timestamp":"2022-02-13T05:54:30.144Z"}
+{"module":"player","message":"New NPWD Player added through event (1) (char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4)","level":"info","timestamp":"2022-02-13T05:55:41.745Z"}
+{"module":"player","message":{"source":1,"_identifier":"char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","_phoneNumber":"306-760-9920","username":"fleev","_firstname":"Fleevo","_lastname":"Test"},"level":"debug","timestamp":"2022-02-13T05:55:41.745Z"}
+{"module":"events","message":"netPromise > npwd:getOrCreateTwitterProfile > RequestObj","level":"silly","timestamp":"2022-02-13T05:55:41.895Z"}
+{"module":"events","message":{"source":1,"data":null},"level":"silly","timestamp":"2022-02-13T05:55:41.896Z"}
+{"module":"events","message":"netPromise > npwd:fetchMessageGroups > RequestObj","level":"silly","timestamp":"2022-02-13T05:55:41.907Z"}
+{"module":"events","message":{"source":1,"data":null},"level":"silly","timestamp":"2022-02-13T05:55:41.908Z"}
+{"module":"events","message":"Response Promise Event npwd:getOrCreateTwitterProfile:9f354989-e635-48ad-9319-70e988e7a232 (28.9794ms), Data >>","level":"silly","timestamp":"2022-02-13T05:55:41.924Z"}
+{"module":"events","message":{"status":"ok","data":{"id":14,"profile_name":"Fleevo_Test","identifier":"char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","avatar_url":"https://i.file.glass/QrEvq.png","bio":null,"location":null,"job":null,"createdAt":"2022-02-13T05:40:12.000Z","updatedAt":"2022-02-13T05:40:12.000Z"}},"level":"silly","timestamp":"2022-02-13T05:55:41.925Z"}
+{"module":"events","message":"Response Promise Event npwd:fetchMessageGroups:de9a23b5-2b73-43d9-9e5b-30774a1cdca5 (19.0043ms), Data >>","level":"silly","timestamp":"2022-02-13T05:55:41.926Z"}
+{"module":"events","message":{"status":"ok","data":[]},"level":"silly","timestamp":"2022-02-13T05:55:41.927Z"}
+{"module":"player","message":"Unloaded NPWD Player, source: (1)","level":"info","timestamp":"2022-02-13T05:57:33.320Z"}
+{"module":"marketplace","message":"Marketplace service started","level":"debug","timestamp":"2022-02-13T06:02:10.060Z"}
+{"module":"player","message":"Player Service started","level":"debug","timestamp":"2022-02-13T06:02:10.062Z"}
+{"module":"calls","message":"Call service started","level":"debug","timestamp":"2022-02-13T06:02:10.063Z"}
+{"module":"notes","message":"Notes service started","level":"debug","timestamp":"2022-02-13T06:02:10.064Z"}
+{"module":"contact","message":"Contacts service started","level":"debug","timestamp":"2022-02-13T06:02:10.065Z"}
+{"module":"photo","message":"Photo service started","level":"debug","timestamp":"2022-02-13T06:02:10.066Z"}
+{"module":"messages","message":"Messages service started","level":"debug","timestamp":"2022-02-13T06:02:10.067Z"}
+{"module":"twitter","message":"Twitter service started","level":"debug","timestamp":"2022-02-13T06:02:10.069Z"}
+{"module":"match","message":"Match service started","level":"debug","timestamp":"2022-02-13T06:02:10.070Z"}
+{"message":"Sucessfully started","level":"info","timestamp":"2022-02-13T06:02:10.811Z"}
+{"module":"marketplace","message":"Marketplace service started","level":"debug","timestamp":"2022-02-13T06:02:59.759Z"}
+{"module":"player","message":"Player Service started","level":"debug","timestamp":"2022-02-13T06:02:59.761Z"}
+{"module":"calls","message":"Call service started","level":"debug","timestamp":"2022-02-13T06:02:59.762Z"}
+{"module":"notes","message":"Notes service started","level":"debug","timestamp":"2022-02-13T06:02:59.763Z"}
+{"module":"contact","message":"Contacts service started","level":"debug","timestamp":"2022-02-13T06:02:59.764Z"}
+{"module":"photo","message":"Photo service started","level":"debug","timestamp":"2022-02-13T06:02:59.765Z"}
+{"module":"messages","message":"Messages service started","level":"debug","timestamp":"2022-02-13T06:02:59.766Z"}
+{"module":"twitter","message":"Twitter service started","level":"debug","timestamp":"2022-02-13T06:02:59.767Z"}
+{"module":"match","message":"Match service started","level":"debug","timestamp":"2022-02-13T06:02:59.768Z"}
+{"message":"Sucessfully started","level":"info","timestamp":"2022-02-13T06:03:00.505Z"}
+{"module":"marketplace","message":"Marketplace service started","level":"debug","timestamp":"2022-02-13T06:03:15.622Z"}
+{"module":"player","message":"Player Service started","level":"debug","timestamp":"2022-02-13T06:03:15.623Z"}
+{"module":"calls","message":"Call service started","level":"debug","timestamp":"2022-02-13T06:03:15.625Z"}
+{"module":"notes","message":"Notes service started","level":"debug","timestamp":"2022-02-13T06:03:15.626Z"}
+{"module":"contact","message":"Contacts service started","level":"debug","timestamp":"2022-02-13T06:03:15.627Z"}
+{"module":"photo","message":"Photo service started","level":"debug","timestamp":"2022-02-13T06:03:15.627Z"}
+{"module":"messages","message":"Messages service started","level":"debug","timestamp":"2022-02-13T06:03:15.629Z"}
+{"module":"twitter","message":"Twitter service started","level":"debug","timestamp":"2022-02-13T06:03:15.630Z"}
+{"module":"match","message":"Match service started","level":"debug","timestamp":"2022-02-13T06:03:15.631Z"}
+{"message":"Sucessfully started","level":"info","timestamp":"2022-02-13T06:03:16.352Z"}
+{"module":"marketplace","message":"Marketplace service started","level":"debug","timestamp":"2022-02-13T06:04:52.628Z"}
+{"module":"player","message":"Player Service started","level":"debug","timestamp":"2022-02-13T06:04:52.630Z"}
+{"module":"calls","message":"Call service started","level":"debug","timestamp":"2022-02-13T06:04:52.631Z"}
+{"module":"notes","message":"Notes service started","level":"debug","timestamp":"2022-02-13T06:04:52.632Z"}
+{"module":"contact","message":"Contacts service started","level":"debug","timestamp":"2022-02-13T06:04:52.633Z"}
+{"module":"photo","message":"Photo service started","level":"debug","timestamp":"2022-02-13T06:04:52.634Z"}
+{"module":"messages","message":"Messages service started","level":"debug","timestamp":"2022-02-13T06:04:52.635Z"}
+{"module":"twitter","message":"Twitter service started","level":"debug","timestamp":"2022-02-13T06:04:52.636Z"}
+{"module":"match","message":"Match service started","level":"debug","timestamp":"2022-02-13T06:04:52.637Z"}
+{"message":"Sucessfully started","level":"info","timestamp":"2022-02-13T06:04:53.408Z"}
+{"module":"marketplace","message":"Marketplace service started","level":"debug","timestamp":"2022-02-13T06:05:35.009Z"}
+{"module":"player","message":"Player Service started","level":"debug","timestamp":"2022-02-13T06:05:35.011Z"}
+{"module":"calls","message":"Call service started","level":"debug","timestamp":"2022-02-13T06:05:35.013Z"}
+{"module":"notes","message":"Notes service started","level":"debug","timestamp":"2022-02-13T06:05:35.014Z"}
+{"module":"contact","message":"Contacts service started","level":"debug","timestamp":"2022-02-13T06:05:35.015Z"}
+{"module":"photo","message":"Photo service started","level":"debug","timestamp":"2022-02-13T06:05:35.016Z"}
+{"module":"messages","message":"Messages service started","level":"debug","timestamp":"2022-02-13T06:05:35.018Z"}
+{"module":"twitter","message":"Twitter service started","level":"debug","timestamp":"2022-02-13T06:05:35.020Z"}
+{"module":"match","message":"Match service started","level":"debug","timestamp":"2022-02-13T06:05:35.021Z"}
+{"message":"Sucessfully started","level":"info","timestamp":"2022-02-13T06:05:35.788Z"}
+{"module":"player","message":"New NPWD Player added through event (1) (char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4)","level":"info","timestamp":"2022-02-13T06:06:55.614Z"}
+{"module":"player","message":{"source":1,"_identifier":"char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","_phoneNumber":"306-760-9920","username":"fleev","_firstname":"Fleevo","_lastname":"Test"},"level":"debug","timestamp":"2022-02-13T06:06:55.615Z"}
+{"module":"events","message":"netPromise > npwd:getOrCreateTwitterProfile > RequestObj","level":"silly","timestamp":"2022-02-13T06:06:55.766Z"}
+{"module":"events","message":{"source":1,"data":null},"level":"silly","timestamp":"2022-02-13T06:06:55.767Z"}
+{"module":"events","message":"netPromise > npwd:fetchMessageGroups > RequestObj","level":"silly","timestamp":"2022-02-13T06:06:55.777Z"}
+{"module":"events","message":{"source":1,"data":null},"level":"silly","timestamp":"2022-02-13T06:06:55.777Z"}
+{"module":"events","message":"Response Promise Event npwd:getOrCreateTwitterProfile:4ca05572-a759-4881-ae46-d128d23bff44 (28.8296ms), Data >>","level":"silly","timestamp":"2022-02-13T06:06:55.795Z"}
+{"module":"events","message":{"status":"ok","data":{"id":14,"profile_name":"Fleevo_Test","identifier":"char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","avatar_url":"https://i.file.glass/QrEvq.png","bio":null,"location":null,"job":null,"createdAt":"2022-02-13T05:40:12.000Z","updatedAt":"2022-02-13T05:40:12.000Z"}},"level":"silly","timestamp":"2022-02-13T06:06:55.795Z"}
+{"module":"events","message":"Response Promise Event npwd:fetchMessageGroups:ef56b2fb-889e-4d90-aa00-b0d118d5844f (21.1616ms), Data >>","level":"silly","timestamp":"2022-02-13T06:06:55.798Z"}
+{"module":"events","message":{"status":"ok","data":[]},"level":"silly","timestamp":"2022-02-13T06:06:55.798Z"}
+{"module":"player","message":"Unloaded NPWD Player, source: (1)","level":"info","timestamp":"2022-02-13T06:07:16.234Z"}
+{"module":"marketplace","message":"Marketplace service started","level":"debug","timestamp":"2022-02-13T06:08:33.664Z"}
+{"module":"player","message":"Player Service started","level":"debug","timestamp":"2022-02-13T06:08:33.665Z"}
+{"module":"calls","message":"Call service started","level":"debug","timestamp":"2022-02-13T06:08:33.667Z"}
+{"module":"notes","message":"Notes service started","level":"debug","timestamp":"2022-02-13T06:08:33.668Z"}
+{"module":"contact","message":"Contacts service started","level":"debug","timestamp":"2022-02-13T06:08:33.669Z"}
+{"module":"photo","message":"Photo service started","level":"debug","timestamp":"2022-02-13T06:08:33.669Z"}
+{"module":"messages","message":"Messages service started","level":"debug","timestamp":"2022-02-13T06:08:33.670Z"}
+{"module":"twitter","message":"Twitter service started","level":"debug","timestamp":"2022-02-13T06:08:33.672Z"}
+{"module":"match","message":"Match service started","level":"debug","timestamp":"2022-02-13T06:08:33.673Z"}
+{"message":"Sucessfully started","level":"info","timestamp":"2022-02-13T06:08:34.417Z"}
+{"module":"player","message":"New NPWD Player added through event (1) (char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4)","level":"info","timestamp":"2022-02-13T06:09:45.797Z"}
+{"module":"player","message":{"source":1,"_identifier":"char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","_phoneNumber":"306-760-9920","username":"fleev","_firstname":"Fleevo","_lastname":"Test"},"level":"debug","timestamp":"2022-02-13T06:09:45.798Z"}
+{"module":"events","message":"netPromise > npwd:getOrCreateTwitterProfile > RequestObj","level":"silly","timestamp":"2022-02-13T06:09:45.898Z"}
+{"module":"events","message":{"source":1,"data":null},"level":"silly","timestamp":"2022-02-13T06:09:45.899Z"}
+{"module":"events","message":"netPromise > npwd:fetchMessageGroups > RequestObj","level":"silly","timestamp":"2022-02-13T06:09:45.907Z"}
+{"module":"events","message":{"source":1,"data":null},"level":"silly","timestamp":"2022-02-13T06:09:45.908Z"}
+{"module":"events","message":"Response Promise Event npwd:getOrCreateTwitterProfile:262491c2-3901-4f58-b29c-e0eb2e384cea (26.0714ms), Data >>","level":"silly","timestamp":"2022-02-13T06:09:45.924Z"}
+{"module":"events","message":{"status":"ok","data":{"id":14,"profile_name":"Fleevo_Test","identifier":"char1:24dd8c3c6c54660acbde0db8a16e7f323c2c18f4","avatar_url":"https://i.file.glass/QrEvq.png","bio":null,"location":null,"job":null,"createdAt":"2022-02-13T05:40:12.000Z","updatedAt":"2022-02-13T05:40:12.000Z"}},"level":"silly","timestamp":"2022-02-13T06:09:45.924Z"}
+{"module":"events","message":"Response Promise Event npwd:fetchMessageGroups:c46ea70a-9655-4941-8b47-0e27da68bb22 (18.8435ms), Data >>","level":"silly","timestamp":"2022-02-13T06:09:45.926Z"}
+{"module":"events","message":{"status":"ok","data":[]},"level":"silly","timestamp":"2022-02-13T06:09:45.927Z"}
+{"module":"player","message":"Unloaded NPWD Player, source: (1)","level":"info","timestamp":"2022-02-13T06:10:59.641Z"}
